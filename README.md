@@ -1,5 +1,7 @@
 # Embedded Screenshot Text Editor
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 A Codex skill for high-fidelity text editing inside screenshots embedded in legacy Word `.doc` files.
 
 This skill is designed for fragile document-editing tasks where visible screenshot text must be changed without leaving obvious artifacts. It was built around network-lab style Word reports that contain terminal screenshots, Wi-Fi/Phone UI screenshots, and mixed PNG/JPEG images stored inside OLE `Data` streams.
@@ -145,9 +147,6 @@ Before considering a result complete:
 7. Inspect visual samples for artifacts.
 8. Confirm the final document opens or previews correctly.
 
-## Contributors
-
-- [moxiao-hash](https://github.com/moxiao-hash) - workflow feedback and validation
 
 ## License
 
