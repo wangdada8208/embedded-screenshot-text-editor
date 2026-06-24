@@ -145,12 +145,6 @@ Before considering a result complete:
 7. Inspect visual samples for artifacts.
 8. Confirm the final document opens or previews correctly.
 
-## Safety Notes
-
-Do not commit user documents, screenshots, extracted images, backups, or work directories. Only commit reusable skill files.
-
-This repository intentionally contains no personal identifiers, API keys, credentials, sample lab documents, or private screenshots.
-
 ## License
 
-No license has been specified yet. Add a license before redistributing this project broadly.
+MIT License. See [LICENSE](LICENSE).
