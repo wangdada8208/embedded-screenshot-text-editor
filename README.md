@@ -147,7 +147,7 @@ Before considering a result complete:
 
 ## Contributors
 
-- [moxiao-hash](https://github.com/moxiao-hash)
+- [moxiao-hash](https://github.com/moxiao-hash) - workflow feedback and validation
 
 ## License
 
