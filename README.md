@@ -145,6 +145,10 @@ Before considering a result complete:
 7. Inspect visual samples for artifacts.
 8. Confirm the final document opens or previews correctly.
 
+## Contributors
+
+- [moxiao-hash](https://github.com/moxiao-hash)
+
 ## License
 
 MIT License. See [LICENSE](LICENSE).
