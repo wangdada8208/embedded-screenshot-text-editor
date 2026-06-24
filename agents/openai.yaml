@@ -1,0 +1,6 @@
+interface:
+  display_name: "Embedded Screenshot Text Editor"
+  short_description: "High-fidelity edits in embedded screenshots"
+  default_prompt: "Use $embedded-screenshot-text-editor to edit visible text in embedded Word screenshots without visible artifacts."
+policy:
+  allow_implicit_invocation: true
